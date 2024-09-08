@@ -101,15 +101,10 @@ Ejecuta pruebas end-to-end (E2E). Antes de usar este comando, asegúrate de agre
   
 - **Tailwind CSS**: Puedes personalizar el diseño y estilos en el archivo `tailwind.config.js`.
 
-
+---
 
 ![image](https://github.com/user-attachments/assets/93bfb49d-4168-493b-87c6-dde4da653407)
 
-![image](https://github.com/user-attachments/assets/4556c48e-ee7a-41c4-aaf8-7011a68eb1b2)
-
-
-
 ---
-
-Este resumen cubre los pasos esenciales para configurar y utilizar el proyecto, incluyendo la instalación de dependencias, configuración de la base de datos MongoDB, y comandos para ejecutar el servidor o crear nuevos componentes.
+![image](https://github.com/user-attachments/assets/4556c48e-ee7a-41c4-aaf8-7011a68eb1b2)
 

@@ -1,9 +1,11 @@
-#**Login y Registro con Angular y MongoDB**
+*Login y Registro con Angular y MongoDB*
+
 Este proyecto es una aplicación simple de autenticación (login y registro) construida con Angular, Tailwind CSS para el diseño, y MongoDB como base de datos. Está generado con Angular CLI versión 17.3.9.
 
 Notas importantes:
 Base de datos: El nombre de la base de datos de MongoDB puede ser modificado en el archivo de configuración del backend. Asegúrate de ajustar el nombre según tus preferencias en el archivo de conexión de MongoDB (por ejemplo, mongoose.connect en Node.js).
 Comandos necesarios para utilizar el proyecto:
+
 #1. Instalar dependencias del proyecto
 Copiar código
 npm install
